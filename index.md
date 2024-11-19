@@ -3,11 +3,18 @@ layout: default
 title: "Weird and Wild Facts!"
 ---
 
+# Gross!
+---
+Fingernails grow faster than toenails.
+
+<img src="" alt="Image" width="250" height="auto">
+
+Posted - today
+
+
 # Yumm!
 ---
 Tomatoes are a fruit, not a vegetable.
-
-<img src="" alt="Image" width="250" height="auto">
 
 Posted - today
 
@@ -24,8 +31,6 @@ Posted - today
 # Space!
 ---
 There are more trees on Earth than stars in the Milky Way.
-
-<img src="nan" alt="Image" width="250" height="auto">
 
 Posted - today
 

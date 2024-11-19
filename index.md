@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Your Custom Title"
+---
+
 # wild fact of the day
 
 spaceship earth in epcot weighs about sixteen millon POUNDS

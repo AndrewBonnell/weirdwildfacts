@@ -3,6 +3,15 @@ layout: default
 title: "Weird and Wild Facts!"
 ---
 
+# Crocs!
+---
+A crocodile cannot stick its tongue out.
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6Sb3Y9J_M7cMpAhPYgEqi0gBD09jLBdWe5g&s" alt="Image" width="250" height="auto">
+
+Posted - 2024-11-18
+
+
 # Crunch!
 ---
 the jaw is the body's strongest muscle

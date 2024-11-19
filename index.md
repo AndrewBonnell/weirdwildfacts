@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Weird and Wild Facts of the Day!"
+title: "Weird and Wild Facts!"
 ---
 
 # wild fact of the day
@@ -15,9 +15,9 @@ did you know walt disney was the voice of mickey mouse for almost twenty years
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Mickey_Mouse_%28poster_version%29.svg/220px-Mickey_Mouse_%28poster_version%29.svg.png)
 
-# Bats!
+# Snakes!
 ---
-Bats are the only mammals that can fly
+snakes smell with their tongues
 
-![Image](https://media.istockphoto.com/id/857904938/vector/vector-cartoon-illustration-of-cute-friendly-black-bat-character-flying-with-wings-spread-in.jpg?s=612x612&w=0&k=20&c=ERlR5DOHzH6V4HdMPmmsms0eme4FHsEDYdYs2DBtcXQ=)
+![Image](https://t4.ftcdn.net/jpg/05/64/50/55/360_F_564505557_7ZmsNq2ZGfLFE71JloZfCQzxscFVYpVG.jpg)
 

@@ -27,3 +27,9 @@ snakes smell with their tongues
 
 <img src="https://t4.ftcdn.net/jpg/05/64/50/55/360_F_564505557_7ZmsNq2ZGfLFE71JloZfCQzxscFVYpVG.jpg" alt="Image" width="250" height="auto">
 
+# Space!
+---
+There are more trees on Earth than stars in the Milky Way.
+
+<img src="" alt="Image" width="250" height="auto">
+

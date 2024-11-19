@@ -1,6 +1,4 @@
----
 title: "Weird and Wild Facts of the Day!"
----
 
 # wild fact of the day
 

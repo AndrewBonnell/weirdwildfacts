@@ -3,6 +3,15 @@ layout: default
 title: "Weird and Wild Facts!"
 ---
 
+# Thats amazing
+---
+In several U.S states you can buy cupcakes from an ATM.
+
+<img src="https://cicili.tv/wp-content/uploads/2021/11/Vanilla-Cupcakes1-scaled.jpg" alt="Image" width="250" height="auto">
+
+Posted - 2024-11-19
+
+
 # Cool right
 ---
 A women in Italy trained her dog to untie ribon bows

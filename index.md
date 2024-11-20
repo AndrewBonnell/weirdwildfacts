@@ -3,9 +3,11 @@ layout: default
 title: "Weird and Wild Facts!"
 ---
 
-# Fact of the day 
+# WOW!
 ---
-You can buy edible birthday candles
+You can buy birthday cake scented pencils
+
+<img src="https://cdn.mos.cms.futurecdn.net/6QvJwTVmRiYz2xYep6FCvQ-1200-80.jpg" alt="Image" width="250" height="auto">
 
 Posted - 2024-11-19
 
@@ -13,8 +15,6 @@ Posted - 2024-11-19
 # Fact of the day 
 ---
 You can buy edible birthday candles
-
-<img src="birthday candle" alt="Image" width="250" height="auto">
 
 Posted - 2024-11-19
 

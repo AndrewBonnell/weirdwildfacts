@@ -3,6 +3,15 @@ layout: default
 title: "Weird and Wild Facts!"
 ---
 
+# Cloudy!
+---
+A cloud weighs around a million tonnes!!!
+
+<img src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTEyL3Jhd3BpeGVsb2ZmaWNlOF9kcmF3aW5nX2NhcnRvb25fb2ZfaXNvbGF0ZWRfY2xvdWRfX2luX3N0eWxlX29mX184NDUxMmQ5OS1mM2FkLTRjYmUtOTYzMy1iYTdmZDI2ZGY2NjhfMS5wbmc.png" alt="Image" width="250" height="auto">
+
+Posted - 2024-11-19
+
+
 # Crocs!
 ---
 A crocodile cannot stick its tongue out.

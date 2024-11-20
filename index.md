@@ -3,6 +3,15 @@ layout: default
 title: "Weird and Wild Facts!"
 ---
 
+# Cool right
+---
+A women in Italy trained her dog to untie ribon bows
+
+<img src="https://assets-au-01.kc-usercontent.com/1f0619a0-4164-0241-3335-de16f4a2d9f3/347e217c-0b64-45f1-ba60-1c15aac05b27/article-puppy-christmas-present-hero.jpg" alt="Image" width="250" height="auto">
+
+Posted - 2024-11-19
+
+
 # WOW!
 ---
 You can buy birthday cake scented pencils

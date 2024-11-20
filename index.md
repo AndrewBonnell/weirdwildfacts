@@ -3,6 +3,15 @@ layout: default
 title: "Weird and Wild Facts!"
 ---
 
+# Fact of the day 
+---
+You can buy edible birthday candles
+
+<img src="birthday candle" alt="Image" width="250" height="auto">
+
+Posted - 2024-11-19
+
+
 # Cloudy!
 ---
 A cloud weighs around a million tonnes!!!

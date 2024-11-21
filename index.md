@@ -3,6 +3,15 @@ layout: default
 title: "Weird and Wild Facts!"
 ---
 
+# Ewww
+---
+Poop themed party invatations and favors are avalable for purchase
+
+<img src="https://blessedishe.org/wp-content/uploads/2022/07/poop.jpg" alt="Image" width="250" height="auto">
+
+Posted - 2024-11-20
+
+
 # Fact of the day 
 ---
 One man popped 78 confetti filled party poppers in one minute

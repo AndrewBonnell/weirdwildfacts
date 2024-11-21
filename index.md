@@ -3,6 +3,15 @@ layout: default
 title: "Weird and Wild Facts!"
 ---
 
+# Fact of the day 
+---
+One man popped 78 confetti filled party poppers in one minute
+
+<img src="https://media.gettyimages.com/id/96781056/photo/hands-pulling-a-party-popper.jpg?s=612x612&w=gi&k=20&c=vKsw-UpWV3nnigjOEh1Hq1isRSbDSGJbPaNGZCF1nx4=" alt="Image" width="250" height="auto">
+
+Posted - 2024-11-20
+
+
 # Thats amazing
 ---
 In several U.S states you can buy cupcakes from an ATM.

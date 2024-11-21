@@ -3,6 +3,15 @@ layout: default
 title: "Weird and Wild Facts!"
 ---
 
+# Koala Day!!
+---
+Koala's have their own holiday on May 3rd every year called Wild Koala Day.
+
+<img src="https://lazoo.org/wp-content/uploads/2022/08/Koala-New-Female-Maya-JEP_3296.jpg" alt="Image" width="250" height="auto">
+
+Posted - 2024-11-20
+
+
 # Ewww
 ---
 Poop themed party invatations and favors are avalable for purchase

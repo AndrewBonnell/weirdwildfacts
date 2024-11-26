@@ -3,6 +3,15 @@ layout: default
 title: "Weird and Wild Facts!"
 ---
 
+# Fact o f the day
+---
+Rabbits cannot  vomit
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpikbest.com%2Fbackgrounds%2Fopen-mouth-rabbit-standing-around-with-its_9365314.html&psig=AOvVaw3Z2rTl-6T75hEu8uvlogNX&ust=1732672645523000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiBv-Dy-IkDFQAAAAAdAAAAABAT" alt="Image" width="250" height="auto">
+
+Posted - 2024-11-25
+
+
 # Koala Day!!
 ---
 Koala's have their own holiday on May 3rd every year called Wild Koala Day.

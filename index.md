@@ -3,6 +3,15 @@ layout: default
 title: "Weird and Wild Facts!"
 ---
 
+# Jingle Turkey?
+---
+James Pierpont wrote the popular Christmas song for Thanksgiving, not Christmas.
+
+<img src="https://thumbs.dreamstime.com/b/festive-christmas-turkey-cheerful-cartoon-wearing-santa-hat-holding-candy-cane-amid-holiday-decorations-whimsical-blend-337757718.jpg" alt="Image" width="250" height="auto">
+
+Posted - 2024-12-21
+
+
 # Fact o f the day
 ---
 Rabbits cannot  vomit

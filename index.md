@@ -3,6 +3,16 @@ layout: default
 title: "Weird and Wild Facts!"
 ---
 
+# BLUEY
+---
+bluey has a thing with her and bingo in 
+Australia
+
+<img src="https://cdn.flightsim.to/images/25/hpg-h-135-bluey-livery-203513-1682186562-Fbr0d.jpg?width=1400" alt="Image" width="250" height="auto">
+
+Posted - 2025-02-13
+
+
 # Jingle Turkey?
 ---
 James Pierpont wrote the popular Christmas song for Thanksgiving, not Christmas.
